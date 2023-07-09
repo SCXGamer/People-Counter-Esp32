@@ -8,9 +8,9 @@
 #define TRIGGER_PIN_2 4
 #define ECHO_PIN_2 16
 
-char auth[] = "tFYustmO1MdphaAHv9VpVQQ_OvLyxrkY";
-char ssid[] = "Robot";
-char pass[] = "Robot12345";
+char auth[] = "*********************";
+char ssid[] = "*************";
+char pass[] = "*************";
 
 BlynkTimer timer;
 
